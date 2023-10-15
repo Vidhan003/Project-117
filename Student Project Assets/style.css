@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Indie Flower', cursive;
+}
+
+#score {
+    font-size: 20px;
+    margin-left: 50px;
+    float: left;
+}
+
+#timer {
+    font-size: 20px;
+    float: right;
+    margin-right: 50px;
+}
+
+#sketch_drawn {
+    color: orangered;
+}
